@@ -145,3 +145,4 @@ Jupyter Notebook
 *.db
 *.log
 Lab-1/main1.py
+result.txt
